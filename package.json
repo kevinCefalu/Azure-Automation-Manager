@@ -1,14 +1,16 @@
 {
 	"name": "azure-automation-manager-vscode",
-	"displayName": "azure-automation-manager-vscode",
+	"displayName": "Azure Automation Manager",
 	"description": "Azure Automation Manager for Visual Studio Code",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"publisher": "PsiBit",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
 	"categories": [
 		"Other"
 	],
+	"icon": "assets/images/psi-icon.png",
 	"activationEvents": [
 		"onCommand:extension.helloWorld"
 	],
